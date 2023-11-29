@@ -7,13 +7,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanr07"/> </p>
 
 
-- 🔭 I’m currently working on an **AI Chatbot tailored to prospective and current students at the University of Birmingham.**
+  - 🔭 I’m currently working on an **AI Chatbot tailored to prospective and current students at the University of Birmingham.**
 
-- 🌱 I’m currently learning the **LangChain framework to build a chatbot.**
+  - 🌱 I’m currently learning the **LangChain framework to build a chatbot.**
 
-- 📫 How to reach me **rohanrq7@gmail.com**
+  - 📫 How to reach me **rohanrq7@gmail.com**
 
-- ⚡ Fun fact **I like sports and travelling.**
+  - ⚡ Fun fact **I like sports and travelling.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
