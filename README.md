@@ -5,7 +5,7 @@
 <img align'"right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanr07/> </p>
+
 
 - 🔭 I’m currently working on an **AI Chatbot tailored to prospective and current students at the University of Birmingham.**
 
