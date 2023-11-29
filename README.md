@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanr07/> </p>
 
--     🔭 I’m currently working on an **AI Chatbot tailored to prospective and current students at the University of Birmingham.**
+- 🔭 I’m currently working on an **AI Chatbot tailored to prospective and current students at the University of Birmingham.**
 
 - 🌱 I’m currently learning the **LangChain framework to build a chatbot.**
 
