@@ -9,7 +9,9 @@
 
   - 🔭 I’m currently working on an **AI Chatbot tailored to prospective and current students at the University of Birmingham.**
 
-  - 🌱 I’m currently learning the **LangChain framework to build a chatbot.**
+  - 🌱 I’m currently learning the **LangChain framework** to build a chatbot.
+
+  - 💻 The chatbot will utilize MongoDB storing all conversations and user credentials
 
   - 📫 How to reach me **rohanrq7@gmail.com**
 
