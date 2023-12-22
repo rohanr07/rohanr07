@@ -94,7 +94,7 @@
 <h1 align="left">🏆 GitHub Trophies</h1>
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohanr07" alt="rohanr07" /></a> </p> -->
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=rohanr07&theme=shadow_red&no-frame=false&no-bg=true&margin-w=4)](https://github.com/rohanr07)
+![Trophies](https://github-profile-trophy.vercel.app/?username=rohanr07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 
