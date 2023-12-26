@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **I like badminton 🏸 and travelling ✈️**
 
-<h1 align="left"> 🪩 Connect with me</h1>
+# 🪩 Connect With Me
 <p align="left">
 <a href="https://twitter.com/_rohanr007_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_rohanr007_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rohanrenganathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohanrenganathan" height="30" width="40" /></a>
@@ -32,7 +32,6 @@
 <a href="https://www.leetcode.com/_rohan007_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_rohan007_" height="30" width="40" /></a>
 </p>
 
-<!--<h1 align="left">💻 Languages and Tools</h1> --->
 # 💻 Toolkit
 ### 🧮 Languages & Frameworks
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
