@@ -8,17 +8,17 @@
 
 <h1 align="left">💫 About Me </h1>
 
-- 🔭 I’m currently working on an **AI Chatbot tailored to prospective and current students at the University of Birmingham 🤖**
+- 🔭 I’m currently working as a Software Developer
 
 - 🌱 I’m currently learning the **MongoDB database incorporating it into my AI Chatbot 🌿**
 
-- 📝 I regularly write articles on [https://rq7.hashnode.dev](https://rq7.hashnode.dev) 🗞
+- 📝 I sometimes write articles on [https://rq7.hashnode.dev](https://rq7.hashnode.dev) 🗞
 
-- 💬 Ask me about **Software Development, Apple, Cars or Tech in general 📟**
+- 💬 Ask me about **Apple, Cars or literally anything 📟**
 
 - 📫 How to reach me **rohanrq7@gmail.com**
 
-- ⚡ Fun fact **I like badminton 🏸 and travelling ✈️**
+- ⚡ Fun fact **I like cricket 🏏 badminton 🏸 and travelling ✈️**
 
 # 🪩 Connect With Me
 <p align="left">
@@ -36,6 +36,10 @@
 ### 🧮 Languages & Frameworks
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+[![Blazor](https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=fff)](#)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
+[[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -50,6 +54,8 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+[![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 
 ### 📱 Web & Mobile Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
